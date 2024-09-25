@@ -28,8 +28,8 @@ outputs:
   path:
     description: 'The filesystem path to the website screenshot'
 runs:
-  using: 'node12'
+  using: 'node20'
   main: 'dist/index.js'
 branding:
   icon: 'camera'
-  color: 'purple'
+  color: 'pink'
