@@ -20,6 +20,10 @@ inputs:
     description: 'Page width'
     required: false
     default: '1280'
+  makeartifact:
+    description: 'Make Artifact'
+    required: false
+    default: false
 outputs:
   path:
     description: 'The filesystem path to the website screenshot'
