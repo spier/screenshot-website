@@ -20,8 +20,8 @@
     "pre-commit": "npm run package && git add dist/index.js"
   },
   "dependencies": {
-    "@actions/artifact": "^0.1.0",
-    "@actions/core": "^1.10.0",
+    "@actions/artifact": "^2.2.1",
+    "@actions/core": "^1.11.1",
     "bunyan": "^1.8.12",
     "bunyan-format": "^0.2.1",
     "capture-website": "^0.8.1",
